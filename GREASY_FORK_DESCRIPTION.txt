@@ -1,0 +1,83 @@
+绕过全球50+付费新闻网站的付费墙，一键跳转Archive.today免费阅读完整内容
+
+## 功能特点
+
+🎯 一键跳转 - 页面右下角悬浮按钮，点击即可免费阅读
+⚡ 快捷键支持 - Alt+A 或 Ctrl/Cmd+Shift+A 快速访问
+🌍 支持54个网站 - 覆盖全球主流付费媒体
+🧹 智能清理URL - 自动移除跟踪参数
+🎨 优雅设计 - 简洁美观，不干扰阅读
+🔐 隐私保护 - 零数据收集，完全本地运行
+
+## 支持的网站
+
+### 财经类 (11个)
+华尔街日报 (wsj.com) | 金融时报 (ft.com) | 彭博社 (bloomberg.com) | 经济学人 (economist.com) | 巴伦周刊 (barrons.com) | 福布斯 (forbes.com) | Inc. (inc.com) | Quartz (qz.com) | 哈佛商业评论 (hbr.org) | Business Journals | Moneycontrol Pro
+
+### 美国新闻 (9个)
+纽约时报 (nytimes.com) | 华盛顿邮报 (washingtonpost.com) | 大西洋月刊 (theatlantic.com) | 波士顿环球报 (bostonglobe.com) | 洛杉矶时报 (latimes.com) | 芝加哥论坛报 (chicagotribune.com) | 西雅图时报 (seattletimes.com) | 费城问询报 (inquirer.com) | The Information (theinformation.com)
+
+### 英国新闻 (9个)
+泰晤士报 (thetimes.co.uk) | 每日电讯报 (telegraph.co.uk) | 独立报 (independent.co.uk) | 卫报 (theguardian.com) | 每日邮报 (dailymail.co.uk) | 太阳报 (thesun.co.uk) | i报 (inews.co.uk) | 苏格兰人报 (scotsman.com) | 贝尔法斯特电讯报 (belfasttelegraph.co.uk)
+
+### 其他地区 (7个)
+多伦多星报 (thestar.com) | 国家邮报 (nationalpost.com) | 悉尼先驱晨报 (smh.com.au) | 澳大利亚人报 (theaustralian.com.au) | 新西兰先驱报 (nzherald.co.nz) | 日本时报 (japantimes.co.jp) | 印度教徒报 (thehindu.com)
+
+### 科技/学术 (10个)
+WIRED (wired.com) | MIT科技评论 (technologyreview.com) | 科学美国人 (scientificamerican.com) | Nature (nature.com) | The Lancet (thelancet.com) | Cell Press (cell.com) | PNAS (pnas.org) | Science/AAAS (science.org) | The Verge (theverge.com) | VentureBeat (venturebeat.com)
+
+### 文化/杂志 (8个)
+纽约客 (newyorker.com) | 名利场 (vanityfair.com) | 纽约杂志 (nymag.com) | 旁观者 (spectator.co.uk) | 新政治家 (newstatesman.com) | The Saturday Paper (thesaturdaypaper.com.au) | Medium (medium.com) | Substack (substack.com)
+
+## 使用方法
+
+1. 访问任意支持的付费新闻网站
+2. 点击右下角的 📖 Read Free 按钮
+3. 在新标签页中免费阅读完整文章
+
+或使用快捷键：
+- 通用版：Alt + A
+- 智能版：Ctrl + Shift + A (Mac用Cmd)
+
+## 工作原理
+
+脚本会将当前付费文章的URL跳转到Archive.today的存档版本。Archive会定期抓取网页快照，存档版本不包含付费墙限制，因此可以免费阅读完整内容。
+
+URL会自动清理跟踪参数（如?mod=xxx），确保能正确找到存档。
+
+
+## 常见问题
+
+**Q: 为什么找不到存档？**
+A: 文章可能太新，Archive还未抓取。通常等待24小时后会有存档。也可以手动访问archive.today提交该链接。
+
+**Q: 这合法吗？**
+A: Archive.today是公开的网页存档服务，类似于图书馆。本脚本仅供个人学习研究使用，建议在经济允许时支持原创作者订阅正版。
+
+**Q: 为什么按钮不显示？**
+A: 请检查：1) Tampermonkey已启用 2) 脚本已安装并启用 3) 刷新页面 4) 网站在支持列表中
+
+**Q: 可以添加其他网站吗？**
+A: 可以！编辑脚本，在 @match 部分添加新网站的规则，或在智能版的 paywallSites 数组中添加域名。
+
+## 隐私说明
+
+本脚本：
+✓ 完全开源，代码透明
+✓ 零数据收集，不追踪浏览历史
+✓ 本地运行，不向第三方发送数据
+✓ 无需特殊权限 (@grant none)
+
+## 免责声明
+
+1. 本脚本仅供个人学习研究使用
+2. 请尊重原创内容创作者的劳动成果
+3. 建议在经济条件允许时订阅正版
+4. 使用本脚本的任何后果由用户自行承担
+5. 本脚本与Archive.today及各新闻网站无任何官方关联
+
+---
+
+如果这个脚本对你有帮助，请给个好评⭐并分享给需要的朋友！
+
+有问题或建议？欢迎在下方反馈区留言。

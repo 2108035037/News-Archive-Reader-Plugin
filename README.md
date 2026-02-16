@@ -1,4 +1,4 @@
-# 📖 Paywall Bypass - Archive Reader
+<img width="389" height="28" alt="image" src="https://github.com/user-attachments/assets/82a88b35-824e-4c10-af06-528f95db7e4c" /># 📖 Paywall Bypass - Archive Reader
 
 ## 一键绕过付费墙，免费阅读全球优质新闻
 
@@ -303,12 +303,6 @@ const archiveUrl = 'https://ghostarchive.org/archive/' + url;  // Ghost Archive
 
 ## 🤝 贡献与支持
 
-### 报告问题
-发现bug或有功能建议？欢迎：
-- 📧 发送邮件至: [你的邮箱]
-- 🐛 提交Issue: [GitHub链接]
-- 💬 在论坛讨论: [论坛链接]
-
 ### 贡献代码
 欢迎提交Pull Request：
 1. Fork 本项目
@@ -320,7 +314,7 @@ const archiveUrl = 'https://ghostarchive.org/archive/' + url;  // Ghost Archive
 如果这个插件对你有帮助：
 - ⭐ 给项目点个Star
 - 📢 分享给需要的朋友
-- ☕ 请作者喝杯咖啡: [打赏链接]
+- ☕ 请作者喝杯咖啡: https://ko-fi.com/feathamity_tto
 
 ---
 
@@ -361,10 +355,9 @@ const archiveUrl = 'https://ghostarchive.org/archive/' + url;  // Ghost Archive
 
 ## 📞 联系方式
 
-- 📧 Email: your.email@example.com
-- 🐦 Twitter: @YourHandle
-- 💬 Telegram: @YourChannel
-- 🌐 Website: https://yourwebsite.com
+- 📧 Email: zyz2108035037@gmail.com
+- QQ: 2108035037
+
 
 ---
 
@@ -375,7 +368,7 @@ const archiveUrl = 'https://ghostarchive.org/archive/' + url;  // Ghost Archive
 ```
 MIT License
 
-Copyright (c) 2026 [Your Name]
+Copyright (c) 2026 [FeathamityTTO]
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -397,7 +390,7 @@ copies of the Software...
 
 **最后更新**: 2026年2月16日  
 **版本**: v3.0  
-**作者**: Your Name
+**作者**: FeathamityTTO
 
 ---
 
